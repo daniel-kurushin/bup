@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1447045265 source:/home/dan/Yandex.Disk/Src/BUP/fuse.c
+	<avr/io.h>
+
+1447062882 source:/home/dan/Yandex.Disk/Src/BUP/main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pindefines.h"
+	"main.h"
+	"usart.h"
+
+1447047360 /home/dan/Yandex.Disk/Src/BUP/pindefines.h
+
+1447062596 /home/dan/Yandex.Disk/Src/BUP/main.h
+	"timer.h"
+
+1447059777 /home/dan/Yandex.Disk/Src/BUP/usart.h
+	<avr/io.h>
+	<stdint.h>
+	<stdbool.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	<string.h>
+
+1447062953 source:/home/dan/Yandex.Disk/Src/BUP/usart.c
+	"usart.h"
+
+1447062878 source:/home/dan/Yandex.Disk/Src/BUP/timer.c
+	"timer.h"
+	"usart.h"
+
+1447062203 /home/dan/Yandex.Disk/Src/BUP/timer.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1447096042 source:/home/pi/BUP/fuse.c
+	<avr/io.h>
+
+1448202748 source:/home/pi/BUP/main.c
+	"main.h"
+
+1448202075 /home/pi/BUP/pindefines.h
+
+1448202023 /home/pi/BUP/main.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pindefines.h"
+	"usart.h"
+	"timer.h"
+	"build.h"
+
+1448202783 /home/pi/BUP/timer.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448202601 /home/pi/BUP/usart.h
+	<avr/io.h>
+	<stdint.h>
+	<stdbool.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	<string.h>
+
+1448201018 source:/home/pi/BUP/timer.c
+	"timer.h"
+
+1448202670 source:/home/pi/BUP/usart.c
+	"usart.h"
+
+1448202787 /home/pi/BUP/build.h
+
+1447078042 source:/home/x8973/Рабочий стол/BUP/fuse.c
+	<avr/io.h>
+
+1448068630 source:/home/x8973/Рабочий стол/BUP/main.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pindefines.h"
+	"main.h"
+	"usart.h"
+	"build.h"
+
+1447078042 /home/x8973/Рабочий стол/BUP/pindefines.h
+
+1447078042 /home/x8973/Рабочий стол/BUP/main.h
+	"timer.h"
+
+1447078042 /home/x8973/Рабочий стол/BUP/timer.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448104597 /home/x8973/Рабочий стол/BUP/usart.h
+	<avr/io.h>
+	<stdint.h>
+	<stdbool.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	<util/delay.h>
+	<string.h>
+
+1448106341 /home/x8973/Рабочий стол/BUP/build.h
+
+1447078042 source:/home/x8973/Рабочий стол/BUP/timer.c
+	"timer.h"
+
+1448104463 source:/home/x8973/Рабочий стол/BUP/usart.c
+	"usart.h"
+
+1448201722 source:/home/pi/BUP/ADC.c
+	"ADC.h"
+
+1448201872 /home/pi/BUP/ADC.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448447665 source:/home/dan/Dropbox/robot/BUP/ADC.c
+	"ADC.h"
+	"main.h"
+	"usart.h"
+
+1448268216 /home/dan/Dropbox/robot/BUP/ADC.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1447078042 source:/home/dan/Dropbox/robot/BUP/fuse.c
+	<avr/io.h>
+
+1448539779 source:/home/dan/Dropbox/robot/BUP/main.c
+	"main.h"
+
+1448260926 /home/dan/Dropbox/robot/BUP/main.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pindefines.h"
+	"usart.h"
+	"timer.h"
+	"ADC.h"
+	"build.h"
+
+1448271389 /home/dan/Dropbox/robot/BUP/pindefines.h
+
+1448276339 /home/dan/Dropbox/robot/BUP/usart.h
+	<avr/io.h>
+	<stdint.h>
+	<stdbool.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	<string.h>
+
+1448184782 /home/dan/Dropbox/robot/BUP/timer.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448709198 /home/dan/Dropbox/robot/BUP/build.h
+
+1448183018 source:/home/dan/Dropbox/robot/BUP/timer.c
+	"timer.h"
+
+1447078042 source:/home/x8973/Dropbox/robot/BUP/fuse.c
+	<avr/io.h>
+
+1448183018 source:/home/x8973/Dropbox/robot/BUP/timer.c
+	"timer.h"
+
+1448184782 /home/x8973/Dropbox/robot/BUP/timer.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448279889 source:/home/x8973/Dropbox/robot/BUP/ADC.c
+	"ADC.h"
+	"main.h"
+	"usart.h"
+
+1448268216 /home/x8973/Dropbox/robot/BUP/ADC.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1448264263 source:/home/x8973/Dropbox/robot/BUP/usart.c
+	"usart.h"
+
+1448276339 /home/x8973/Dropbox/robot/BUP/usart.h
+	<avr/io.h>
+	<stdint.h>
+	<stdbool.h>
+	<avr/interrupt.h>
+	<stdlib.h>
+	<string.h>
+
+1448277868 source:/home/x8973/Dropbox/robot/BUP/main.c
+	"main.h"
+
+1448260926 /home/x8973/Dropbox/robot/BUP/main.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"pindefines.h"
+	"usart.h"
+	"timer.h"
+	"ADC.h"
+	"build.h"
+
+1448271389 /home/x8973/Dropbox/robot/BUP/pindefines.h
+
+1448282568 /home/x8973/Dropbox/robot/BUP/build.h
+
+1448264263 source:/home/dan/Dropbox/robot/BUP/usart.c
+	"usart.h"
+
